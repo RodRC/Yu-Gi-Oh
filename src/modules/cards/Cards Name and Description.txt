@@ -1,0 +1,163 @@
+Ninja Commander Ikusa Descrição: [Warrior/Effect] When this card is Summoned, you can Special Summon 1 "Ninja Soldier Katana" from your hand.
+
+Gishki Diviner Descrição: [Sea Serpent/Effect] Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.
+
+Gishki Beast Descrição: [Beast/Effect] When this card is Normal Summoned: You can target 1 Level 4 or lower "Gishki" monster in your Graveyard; Special Summon that target in face-up Defense Position.
+
+Electromagnetic Bagworm Descrição: [Insec/Effect] FLIP: Target 1 face-up Machine-Type monster your opponent controls; take control of that target until your next End Phase. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
+
+Mucus Yolk Descrição: [Aqua/Effect] This card may attack your opponent's Life Points directly. Each time this card inflicts Battle Damage to your opponent's Life Points, increase the ATK of this card by 1000 points during your next Standby Phase. The ATK increase lasts as long as this card remains face-up on the field.
+
+Servant of Catabolism Descrição: [Aqua/Effect] This monster may attack your opponent's Life Points directly.
+
+Timeater Descrição: [Machine/Effect] If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.
+
+Gishki Natalia Descrição: [Spellcaster/Spirit] Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 "Gishki" monster in your Graveyard; return that target to the top of the Deck.
+
+Souleater Descrição: [Fish] A living wonder of mystery.
+
+Photon Current Descrição: When a face-up LIGHT Dragon-Type monster you control is targeted for an attack: The attack target gains ATK equal to the attacking monster's ATK, until the end of the Damage Step.
+
+Photon Circle Descrição: [Spellcaster/Effect] Any Battle Damage you take from battles involving this card is halved.
+
+Heraldic Beast Aberconway Descrição: [Dragon/Effect] If this card is in the Graveyard: You can banish another "Heraldic Beast Aberconway" from your Graveyard to target 1 "Heraldic Beast" monster in your Graveyard; add that target to your hand. You can only use the effect of "Heraldic Beast Aberconway" once per turn.
+
+Photon Veil Descrição: Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to the hand. If you add 2 or more monsters, they must have the same name.
+
+Ninja Master Shogun Descrição: [Warrior/Effect] This card can only be Summoned while a "Ninja Commander Ikusa" and a "Ninja Soldier Katana" is in your Graveyard. When this card is Summoned, you can Special Summon 1 "Ninja Soldier Katana" and 1 "Ninja Commando Kabuki" from your Deck in face-up Attack Position.
+
+Reshef the Dark Being Descrição: [Fiend/Ritual/Effect] This card can only be Ritual Summoned with the Ritual Spell Card, "Final Ritual of the Ancients". Once per turn, by discarding 1 Spell Card from your hand, take control of 1 monster on your opponent's side of the field until the end of this turn.
+
+Seven-Armed Fiend Descrição: [Fiend] A fiend with seven arms. Its abilities are a mystery.
+
+Evigishki Tetrogre Descrição: [Aqua/Ritual/Effect] You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can declare 1 card type (Monster, Spell or Trap); your opponent can discard 1 card to negate this card's effect, otherwise both players send 1 card of the declared type from their Main Deck to the Graveyard.
+
+Evigishki Mind Augus Descrição: [Aqua/Ritual/Effect] Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets to the Deck.
+
+Evigishki Levianima Descrição: [Aqua/Ritual/Effect] You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a "Gishki" monster, look at 1 random card in your opponent's hand.
+
+Galaxy Knight Descrição: [Warrior/Effect] If you control a "Photon" or "Galaxy" monster, you can Normal Summon this card without Tributing. When you do: Target 1 "Galaxy-Eyes Photon Dragon" in your Graveyard (if possible); regardless, this card loses 1000 ATK, and if it does, Special Summon that target (if any) in face-up Defense Position. This ATK decrease lasts until the End Phase.
+
+Reverse Buster Descrição: [Fiend/Effect] This card can only attack face-down Defense Position monsters. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the start of the Damage Step, if this card attacked a face-down Defense Position monster: You can destroy that monster immediately with this card's effect without flipping it face-up or applying damage calculation.
+
+Photon Shock Descrição: When you would take battle damage from a battle involving a "Photon" monster you control: Your opponent takes the same amount of battle damage you take from this battle.
+
+Photon Leo Descrição: [Beast/Effect] When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.
+
+Photon Hurricane Descrição:Return Spell/Trap Cards your opponent controls to the hand, up to the number of cards in your hand.
+
+Photon Caesar Descrição: [Warrior/Effect] When this card is Normal or Flip Summoned: You can Special Summon 1 "Photon Caesar" from your hand or Deck.
+
+Gishki Avance Descrição: [Spellcaster/Effect] Once per turn: You can choose 1 "Gishki" monster from your Deck and place it on top of your Deck.
+
+Gishki Ariel Descrição: [Spellcaster/Effect] FLIP: You can add 1 "Gishki" monster from your Deck to your hand.
+
+Maxx "C" Descrição: [Insect/Effect] During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 "Maxx "C"" per turn.
+
+Memory of an Adversary Descrição: When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.
+
+Photon Lizard Descrição: [Dragon/Effect] You can Tribute this card; add 1 Level 4 or lower "Photon" monster from your Deck to your hand. You can only use the effect of "Photon Lizard" once per turn.
+
+Photon Thrasher Descrição: [Warrior/Effect] Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. If you control another monster, this card cannot attack.
+
+Photon Crusher Descrição: [Warrior/Effect] If this card attacks, it is changed to Defense Position at the end of the Damage Step.
+
+Shifting Shadows Deacrição: [Spell/Continuous] Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters on your side of the field, then return them in face-down Defense Position.
+
+Triangle Power Descrição: Increase the original ATK and DEF of all face-up Level 1 Normal Monsters (except Tokens) on your side of the field by 2000 points until the End Phase. Destroy all Level 1 Normal Monsters on your side of the field during the End Phase.
+
+Gishki Abyss Descrição: [Fish/Effect] When this card is Summoned: You can add 1 "Gishki" monster with 1000 or less DEF from your Deck to your hand, except "Gishki Abyss".
+
+Evigishki Gustkraken Descrição: [Aqua/Ritual/Effect] You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Look at up to 2 random cards in your opponent's hand, then shuffle 1 of them into the Deck.
+
+Gishki Zielgigas Descrição: [Aqua/Ritual/Effect] You can Ritual Summon this card with any "Gishki" Ritual Spell Card. Once per turn: You can pay 1000 Life Points; draw 1 card, and if you do, reveal it, then, if it was a "Gishki" monster, shuffle 1 card from the field into the Deck.
+
+Plasma Roar Descrição: [Trap/Continuous] During your opponent's Standby Phase, if you control a "Destiny HERO - Plasma", place 1 Plasma Counter on this card. While this card has 2 or more Plasma Counters on it, you can send this face-up card to the Graveyard to destroy 1 monster on the field and inflict damage to your opponent equal to half the ATK of that monster.
+
+Plasma Counter Descrição: Activate only during the Damage Step when a face-up "Destiny HERO - Plasma" you control is attacked by an opponent's monster and "D - Force" is face-up on top of your Deck. The attacking monster's ATK is halved, and "Destiny HERO - Plasma" gains 1500 ATK.
+
+Drain Time Descrição: Activate only if you control a face-up "Destiny HERO - Plasma". Choose 1 of these phases: Draw Phase, Standby Phase, Main Phase 1, Battle Phase, Main Phase 2, or End Phase. Both players must skip their next phase of that choice.
+
+Doctor-D Descrição: Remove from play 1 "Destiny HERO" monster in your Graveyard. Select 1 Level 4 or lower "Destiny HERO" monster in your Graveyard, and Special Summon it.
+
+Destiny End Dragoon Descrição: [Warrior/Fusion/Effect] "Destiny HERO - Plasma" + "Destiny HERO - Dogma" A Fusion Summon of this card can only be done with the above Fusion Material Monsters. Once per turn: You can target 1 monster your opponent controls; destroy that target and inflict damage to your opponent equal to its ATK on the field. You cannot conduct your Battle Phase the turn you activate this effect. During your Standby Phase, if this card is in your Graveyard: You can banish 1 "Destiny HERO" card from your Graveyard; Special Summon this card.
+
+Gren Maju Da Eiza Descrição: [Fiend/Effect] This card's ATK and DEF are each equal to the number of your removed from play cards x 400.
+
+Divine Knight Ishzark Descrição: [Warrior/Effect] After damage calculation, when this card destroys a monster by battle: Banish that monster.
+
+Lady of Chaos Descrição: [Spellcaster/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 face-up "Dark Magician Girl" you control to the graveyard. During your end phase you can remove from play "Dark Magician Girl" in your graveyard to Special Summon 1 "Magician" monster from you deck or hand.
+
+Uria, Lord of Searing Flames (HQ Anime Artwork) Descrição: [Divine-Beast/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect or by sending 3 Trap Cards you control to the Graveyard. This card gains 1000 ATK and DEF for each Trap Card in your Graveyard. Once per turn, you can select 1 face-down Spell or Trap Card your opponent controls, and destroy it. Spell and Trap Cards cannot be activated in response to this effect's activation. If this card is destroyed, during your next Main Phase, you can discard 1 Trap Card to Special Summon this card from your Graveyard. During the turn you Special Summoned this card by its effect, you cannot activate its other effects, and if you control another monster, this card cannot declare an attack.
+
+Hamon, Lord of Striking Thunder (HQ Anime Artwork) Descrição: [Divine-Beast/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 3 Spell Cards you control to the Graveyard. When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 1000 damage to your opponent. While you control this face-up Defense Position card, other monsters you control cannot be selected as attack targets. If this Defense Position card is destroyed, you take no damage for the rest of this turn.
+
+Spotlight (HQ) Descrição: [Spell/Continuous] Select 1 face-up monster you control. It gains 300 ATK. If the selected monster is removed from the field, you must select 1 other face-up monster you control.
+
+Stage Select (HQ) Descrição: Shuffle your opponent's Deck. Then, select 1 card from your Deck and place it on top of your Deck.
+
+Synchro Barrier Force (HQ) Descrição: Activate only when a card or effect is activated that would destroy a card(s) on the field. Negate that effect, then inflict 500 damage to your opponent for each face-up Synchro Monster you control.
+
+Exodia the Forbidden One (OCG) Descrição: [Spellcaster/Effect] When you have "Right Leg of the Forbidden One", "Left Leg of the Forbidden One", "Right Arm of the Forbidden One" and "Left Arm of the Forbidden One" in addition to this card in your hand, you win the Duel.
+
+ Marauding Captain Descrição: [Warrior/Effect] Your opponent cannot target face-up Warrior-Type monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.
+
+Deep Diver (HQ Anime Artwork) Descrição: [Aqua/Effect] If this card is destroyed by battle and sent to the Graveyard, at the end of the Battle Phase select 1 card from your Deck, and place it on top of your Deck.
+
+Alchemy Beast - Salamandra the Steel (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Steel Lamp". This card can attack your opponent directly.
+
+Alchemy Beast - Ouroboros the Bronze (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Bronze Scale". This card can attack your opponent directly.
+
+Alchemy Beast - Moonface the Silver (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Silver Key". This card can attack your opponent directly.
+
+Alchemy Beast - Leon the Lead (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Lead Compass". This card can attack your opponent directly.
+
+Alchemy Beast - Ekenas the Mercury (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Mercury Hourglass". This card can attack your opponent directly.
+
+Alchemy Beast - Aretos the Tin (HQ) Descrição: [Rock/Effect] This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with "Tin Spell Circle". This card can attack your opponent directly.
+
+Skiel A3 (HQ) Descrição: [Machine/Effect] If you do not control a face-up "Meklord Emperor" monster, destroy this card. Once per turn, you can select 1 face-up monster you control. Until the End Phase, that monster's ATK is halved, and it can attack your opponent directly.
+
+Fire Trooper Descrição: [Warrior/Effect] When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.
+
+Hunter Dragon Descrição: [Dragon] This dragon has taken down countless prey with its sharp fangs. It strikes very quickly, because if it does not strike first, it is vulnerable to a counter-attack.
+
+Kuribandit Descrição: [Fiend/Effect] During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap Card to your hand, also send the remaining cards to the Graveyard.
+
+Crystal Beast Ruby Carbuncle (HQ Anime Artwork) Descrição: [Fairy/Effect] If this card is in your Spell & Trap Card Zone, you can Special Summon it. When this monster is Special Summoned, you can Special Summon as many "Crystal Beast" cards as possible from your Spell & Trap Card Zone. If this card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+
+Crystal Beast Emerald Tortoise (HQ Anime Artwork) Descrição: [Aqua/Effect] Once per turn: You can target 1 monster you control that attacked this turn; change that target to Defense Position. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+
+Crystal Beast Amethyst Cat (HQ Anime Artwork) Descrição: [Beast/Effect] This card can attack your opponent directly, but when it uses this effect, any Battle Damage it inflicts to your opponent is halved. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.
+
+Photon Pirate (HQ Anime Artwork) Descrição: [Machine/Effect] Once per turn: You can banish 1 "Photon" monster from your Graveyard; this card gains 1000 ATK until the End Phase.
+
+Swarm of Scarabs Descrição: [Insect/Effect] Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; destroy that target.
+
+Photon Lizard Descrição: [Dragon/Effect] You can Tribute this card you control: Add 1 Level 4 or lower "Photon" monster from your Deck to your hand.
+
+Stealth Bird Descrição: [Winged Beast/Effect] Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Inflict 1000 damage to your opponent.
+
+Princess of Tsurugi Descrição: [Warrior/Effect] FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.
+
+Burning Rebirth Descrição: [Trap/Continuous] Tribute 1 face-up Level 8 or higher Synchro Monster to select 1 "Red Dragon Archfiend" in your Graveyard. Special Summon that monster in face-up Attack Position and equip this card as an Equip Card to it. When this card is removed from the field, destroy that monster. When that monster is removed from the field, destroy this card. You can send 1 Tuner monster from your hand and this face-up card you control to your Graveyard to Special Summon the Synchro Monster you Tributed for this card's activation.
+
+Grave Arm Descrição: Destroy 1 monster on the field. While that monster is in the Graveyard, it cannot be Special Summoned.
+
+Hyper Refresh (HQ) Descrição: [Spell/Quick-Play] Activate only if the combined ATK of your opponent's face-up monsters is higher than your Life Points, while you control no monsters. Double your Life Points.
+
+Last Magnet Descrição: Activate only when an opponent's monster destroys a monster you control by battle. Equip this card to that monster. It loses 800 ATK.
+
+Dark Magician of Chaos Descrição: [Spellcaster/Effect] When this card is Normal or Special Summoned: You can target 1 Spell Card in your Graveyard; add that target to your hand. Banish any monster destroyed by battle with this card. If this face-up card would leave the field, banish it instead.
+
+Rise of the Snake Deity Descrição: Activate only if a face-up "Vennominon the King of Poisonous Snakes" you control is destroyed. Special Summon 1 "Vennominaga the Deity of Poisonous Snakes" from your hand or Deck.
+
+Ambush Fangs Descrição: Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.
+
+Virus Cannon Descrição: Tribute any number of non-Token monsters you control. For each Tributed monster, your opponent selects 1 Spell Card from their Deck and sends it to the Graveyard.
+
+Last Turn Descrição: This card can only be activated during your opponent's turn when your Life Points are 1000 or less. Select 1 monster on your side of the field and send all other cards on the field and in their respective owner's hands to their respective Graveyards. After that, your opponent selects and Special Summons 1 monster from their Deck in face-up Attack Position and attacks your selected monster. (Any Battle Damage from this battle is treated as 0.) The player whose monster remains alone on the field at the End Phase of this turn wins the Duel. Any other case results in a DRAW.
+
+Interdimensional Matter Transporter Descrição: Target 1 face-up monster you control; banish that target until the End Phase.
+
+Foolish Revival Descrição: Select 1 monster from your opponent's Graveyard, and Special Summon it in face-up Defense Position on your opponent's side of the field.

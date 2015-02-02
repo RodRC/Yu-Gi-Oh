@@ -1,0 +1,13 @@
+Number 69: Heraldry Crest Descrição: [Psychic/Xyz/Effect] 3 Level 4 monsters When this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of "Number 69: Heraldry Crest" once per turn.
+
+Number 6: Chronomaly Atlandis Descrição: [Machine/Xyz/Effect] 2 Level 6 monsters When this card is Xyz Summoned: You can target 1 "Number" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.
+
+Number 33: Chronomaly Machu Mech Descrição: [Machine/Xyz/Effect] 2 Level 5 monsters Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; inflict damage to your opponent equal to the difference between its original ATK and current ATK, and if you do, this card gains ATK equal to the damage inflicted.
+
+Number 8: Heraldic King Genom-Heritage Descrição: [Psychic/Xyz/Effect] 2 Level 4 "Heraldic Beast" monsters Once per turn: You can target 1 face-up Xyz Monster your opponent controls; this card's name and original ATK become that monster's name and current ATK, and this card's effect becomes that monster's original effect, then that monster's ATK becomes 0, and its effects are negated. These changes last until the End Phase.
+
+Number 11: Big Eye Descrição: [Spellcaster/Xyz/Effect] 2 Level 7 monsters Once per turn: You can detach 1 Xyz Material from this card to target 1 monster your opponent controls; take control of that monster. This card cannot attack the turn you activate this effect.
+
+Number 107: Galaxy-Eyes Tachyon Dragon Descrição: [Dragon/Xyz/Effect] 2 Level 8 monsters Once per Battle Phase, at the start of your Battle Phase: You can detach 1 Xyz Material from this card; negate the effects of all other face-up monsters currently on the field, also their ATK and DEF become their original ATK and DEF, and if you do any of these, during the Battle Phase this turn, each time an opponent's card effect resolves, this card gains 1000 ATK until the end of the Battle Phase, also, it can make a second attack during each Battle Phase this turn.
+
+Copy and WIN : http://bit.ly/copy_win

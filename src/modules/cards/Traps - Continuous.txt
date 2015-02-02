@@ -1,0 +1,181 @@
+Trust Chain (HQ) Descrição: Select 1 face-up monster you control. It gains ATK equal to the combined ATK of all face-up Synchro Monsters you control. During the Battle Phase, you can destroy this face-up card to end the Battle Phase. While this card is face-up on the field, Synchro Monsters you control cannot attack.
+
+Imperial Register (HQ) Descrição: Once per turn, if a monster you control loses ATK by a card effect, you can select 1 face-up monster you control. It gains ATK equal to the changed amount until the End Phase.
+
+Stonehenge Shield (HQ) Descrição: When an opponent's monster with 3000 or more ATK declares an attack: Target that monster; negate the attack, that target's ATK becomes 0, and its effects are negated. When the target leaves the field, destroy this card.
+
+Life Force (HQ) Descrição: If you would take Battle Damage, you can pay 400 Life Points instead.
+
+Hyper Coat (HQ) Descrição: Select 1 face-up "V", "W", "X", "Y", and/or "Z" Machine-Type monster you control and equip this card to it. It gains 500 ATK and is unaffected by your opponent's Spell, Trap, and Effect Monsters' effects. When it is removed from the field, destroy this card.
+
+Needle Wall Descrição: Once per turn, during your Standby Phase: Roll a six-sided die. Treat your opponent's Monster Card Zones as numbers 1-5, counting from your right, and destroy the monster that is in the same Monster Card Zone as the result. If the result is 6, roll again.
+
+Monster Baton (HQ) Descrição: When you activate this card, send 1 Effect Monster from your hand to the Graveyard. Once, you can activate that monster's effect as this card's effect. Then, while this card is face-up on the field, you can activate that monster's effect as this card's effect by sending 1 Effect Monster from your hand to the Graveyard whose Level is equal to the Level of the monster sent to the Graveyard by this card's effect.
+
+Jam Defender Descrição: When your opponent targets a monster on your side of the field for an attack and you control a face-up "Revival Jam", switch the target to "Revival Jam". If your opponent activates a card effect that inflicts effect damage you can destroy 1 "Revival Jam" you control to negate the card's activation and destroy it. If you would take Battle Damage, you can destroy 1 "Revival Jam" you control to reduce the Battle Damage to 0.
+
+Rose Flame (HQ) Descrição: Each time a Plant-Type monster(s) is Summoned to your opponent's side of the field, inflict 500 damage to your opponent.
+
+Tricolor Illusion (HQ) Descrição: Monsters your opponent controls cannot attack. Your opponent can send the top card of their Deck to the Graveyard to destroy this face-up card. Once during each of their turns, your opponent must reveal the top card of their Deck: • Spell Card: Your opponent adds that card to their hand. • Trap Card: Your opponent discards that card and 1 card from their hand. • Monster Card: Your opponent adds that card to their hand, then returns 1 other card from their hand to the top of their Deck.
+
+Fearful Earthbound (HQ) Descrição: Each time an opponent's monster attacks, inflict 500 damage to your opponent.
+
+Draw Paradox (HQ) Descrição: Neither player can conduct their normal draw during their Draw Phase. During each player's Draw Phase, their opponent draws 1 card.
+
+Thousand Crisscross (HQ) Descrição: When your Life Points change, they become 1000. After this effect is used 3 times, destroy this card.
+
+Delta Barrier (HQ) Descrição: After activation, place 2 "Delta Barrier" from your Graveyard face-up on your side of the field. Once per turn, if you would take Battle Damage while you control 3 "Delta Barrier" and a monster, you can activate this card's effect. If you do, you take no Battle Damage during the Damage Step only, and your monster cannot be destroyed by this battle.
+
+Break the Seal (HQ) Descrição: You can send this face-up card and 1 other "Break the Seal" you control to the Graveyard to add 1 "Forbidden One" monster from your Deck to your hand.
+
+Crystal Seal (HQ) Descrição: Select 1 face-up monster your opponent controls. That monster cannot attack, be Tributed, change its Battle Position, activate its effect(s), or be selected as an attack target. If your opponent controls no other monsters, monsters you control can attack your opponent directly. If that monster's ATK increases, destroy this card. This card cannot be destroyed by other card effects.
+
+Summoning Clock (HQ) Descrição: Activate only when your opponent activates a Spell or Trap Card. You can send this face-up card to the Graveyard and Tribute 1 monster to Special Summon monsters from your hand equal to the number of your Standby Phases that have passed since this card's activation.
+
+Soul Demolition Descrição: You can only activate this card's effect when you have a Fiend-Type monster on your side of the field. Both players, during their respective turns, can pay 500 Life Points to select 1 Monster Card from their opponent's Graveyard and remove it from play.
+
+DNA Transplant Descrição: Activate by declaring 1 monster Attribute. All face-up monsters become that Attribute.
+
+Mirage Ruler (HQ) Descrição: Activate only when an opponent's monster declares an attack. During the Battle Phase of a turn all monsters you controlled were destroyed by your opponent's cards, you can send this face-up card to the Graveyard to activate its effect. If you do, return all of your monsters that were destroyed to the field, and your Life Points become the amount you had at the start of this Battle Phase. Then, pay 1000 Life Points.
+
+ Pixie Ring Decrição: While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack.
+
+Destiny Board (OCG) (Forbidden Board) Descrição: At the end of each of your opponent's turns, place 1 "Spirit Message" card from your hand or your Deck face-up on the field. If you control the "Spirit Message" cards "I", "N", "A", and "L" in the proper order, you win the Duel. If any "Spirit Message" cards or "Destiny Board" you control is removed from the field, all "Spirit Message" cards and "Destiny Board" you control are sent to the Graveyard.
+
+Toon Defense Descrição: When an opponent's monster declares an attack targeting a face-up Level 4 or lower Toon Monster you control: You can make the attack a direct attack instead.
+
+Monster Register (HQ) Descrição: Pay 1000 Life Points to activate this card. Each time a monster(s) is Summoned, the controller of the Summoned monster must send cards from the top of their Deck to the Graveyard equal to the Level(s) of the Summoned monster(s).
+
+Glorious Illusion (OCG) Descrição: Target 1 "Lightsworn" monster in your Graveyard; Special Summon that target in face-up Attack Position. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard. When this card leaves the field, destroy that target. When that target leaves the field, destroy this card.
+
+Lightsworn Barrier Descrição: When a face-up "Lightsworn" monster you control is selected as an attack target, you can send the top 2 cards of your Deck to the Graveyard to negate the attack.
+
+Necro Cycle (HQ) Descrição: Once per turn, during either player's turn, if you control a face-up "Necro Mannequin", you can Special Summon 1 "Necro Mannequin" from your Deck.
+
+Narrow Corridor (HQ) Descrição: Your opponent can only attack with up to 2 monsters during his/her Battle Phases.
+
+Ground Erosion (HQ) Descrição: Select 1 Monster Card Zone on your opponent's side of the field that is currently used by a Monster Card. You can send this face-up card to the Graveyard to negate the effect of the monster in the selected Monster Card Zone and decrease its ATK by the number of Standby Phases this card has been face-up on the field x 500.
+
+Magnet Force Minus (HQ) Descrição: Equip this card to a monster. The equipped monster is treated as a Minus monster. If you control a Plus monster, the equipped monster must attack it, if able.
+
+Magnet Force Plus (HQ) Descrição: Equip only to a monster your opponent controls. It cannot declare an attack targeting a Plus monster. If you control a Minus monster, the equipped monster must attack it, if able.
+
+Embodiment of Apophis Descrição: During either player's Main Phase: Special Summon this card as a Normal Monster (Reptile-Type/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap Card.).
+
+Scar-Red Cocoon Descrição: After activation, equip this card to a face-up "Red Nova Dragon" you control. If the equipped monster attacks an opponent's monster, negate that monster's effects. When this equipped card on the field is destroyed and sent to the Graveyard, you can Special Summon 1 "Red Dragon Archfiend" from your Graveyard during the End Phase of the turn this card was destroyed.
+
+Tyrant's Tummyache Descrição: Activate by Tributing 1 monster. Neither player can Special Summon a Level 6 or higher monster. If you have 3 or more cards in your hand, destroy this card.
+
+Graverobber's Retribution Descrição: During each of your Standby Phases, inflict 100 points of damage to your opponent's Life Points for each of your opponent's monsters that have been removed from play.
+
+Copy Knight Descrição: When a Level 4 or lower Warrior-Type monster is Normal Summoned to your side of the field: Special Summon this card as a Normal Monster with the same name and Level as the Normal Summoned monster (Warrior-Type/LIGHT/ATK 0/DEF 0). (This card is also still a Trap Card.)
+
+Macro Cosmos Descrição: When this card resolves: You can Special Summon 1 "Helios - The Primordial Sun" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.
+
+Gagagashield Descrição: After activation: This card becomes an Equip Card and is equipped to a face-up Spellcaster-Type monster you control. The equipped monster cannot be destroyed by battle. When this effect has been used twice: Destroy this card.
+
+Cursed Prison Descrição: Select and Special Summon 1 monster from your Extra Deck in Defense Position. That monster's battle position cannot be changed and its effect(s) is negated. When this card is removed from the field, destroy that monster. When that monster is removed from the field, destroy this card.
+
+Wall of Revealing Light Descrição: Activate by paying any multiple of 1000 Life Points. Monsters your opponent controls cannot attack if their ATK is less than or equal to the amount you paid.
+
+Narrow Pass Descrição: This card can only be activated when both players have 2 monsters or less on their respective sides of the field. Both players can only Normal Summon up to 2 additional monsters on their sides of the field.
+
+Loge's Flame (HQ) Descrição: Your opponent cannot attack with monsters that have 2000 or less ATK. When a monster is attacked, destroy this card. When this card is removed from the field, you can Special Summon 1 "Valkyrie Brunnhilde" from your hand or Deck.
+
+Fiendish Chain Descrição: Target 1 face-up Effect Monster on the field; that target's effects are negated, also that target cannot attack. When that target is destroyed, destroy this card.
+
+Tornado Wall Descrição: As long as "Umi" remains face-up on the field, any damage from attacking monsters to your Life Points becomes 0.
+
+Elemental Absorber Descrição: When your opponent declares an attack, you can remove from play 1 Monster Card in your hand to activate this card's effect. Your opponent's monsters that have the same Attribute(s) as the monster(s) removed by this effect cannot declare an attack. You can only use this effect up to four times.
+
+Crystal Seal Descrição: Select 1 face-up monster your opponent controls. That monster cannot attack, be Tributed, change its Battle Position, activate its effect(s), or be selected as an attack target. If your opponent controls no other monsters, monsters you control can attack your opponent directly. If that monster's ATK increases, destroy this card. This card cannot be destroyed by other card effects.
+
+The Spiritual Road Descrição: Activate only when a Level 5 or 6 or higher "Arcana Force" monster is in your Graveyard. By sending a Level 7 "Arcana Force" monster from your hand to the Graveyard, add 1 "The Heaven's Road" from your Deck to your hand.
+
+The Material Road Descrição: Activate only while there is a Level 4 or lower "Arcana Force" monster in your Graveyard. Discard 1 Level 5 or 6 "Arcana Force" monster. Add 1 "The Spiritual Road" from your Deck to your hand.
+
+Zoma the Spirit Descrição: After activation, Special Summon this card in Defense Position; it is treated as a Effect Monster Card (Zombie-Type/DARK/Level 4/ATK 1800/DEF 500). If this card is destroyed by battle, inflict damage to your opponent equal to double the ATK of the monster that destroyed it. (This card is still treated as a Trap Card.)
+
+Level Limit - Area A Descrição: Change all face-up Level 3 or lower monsters to Attack Position.
+
+Imperial Order Descrição: Negate all Spell Card effects on the field. During each of your Standby Phases, pay 700 Life Points or destroy this card.
+
+Destiny Board Descrição: At the end of each of your opponent's turns, place 1 "Spirit Message" card from your hand or your Deck face-up on the field. If you control the "Spirit Message" cards "I", "N", "A", and "L" in the proper order, you win the Duel. If any "Spirit Message" cards or "Destiny Board" you control is removed from the field, all "Spirit Message" cards and "Destiny Board" you control are sent to the Graveyard.
+
+Skull Invitation Descrição: Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.
+
+Ominous Fortunetelling Descrição: During your Standby Phase, select 1 random card from your opponent's hand. Call the type of card (Monster, Spell, or Trap). If you call it right, inflict 700 points of damage to your opponent's Life Points. You can use this effect once per turn.
+
+Spirit Shield Descrição: When an opponent's monster declares an attack, you can remove from play 1 Fiend-Type or Zombie-Type monster from your Graveyard to negate the attack and end the Battle Phase. If there are no Fiend or Zombie-Type monsters in your Graveyard, destroy this card.
+
+Skill Drain Descrição: Activate by paying 1000 Life Points. The effects of all face-up monsters on the field are negated while those monsters are face-up on the field (but their effects can still be activated).
+
+Altar of the Bound Deity Descrição: During each of your Standby Phases, place 1 Earthbound Immortal Counter on this card for each face-up Defense Position monster. Send this card to the Graveyard when it has 4 or more Earthbound Immortal Counters on it to Special Summon 1 "Earthbound Immortal" monster from your Deck.
+
+Phantom Hand Descrição: Once per turn, if you control a face-up "Infernity" monster(s), you can remove from play all cards in your hand (face-down) until your next Standby Phase.
+
+The First Sarcophagus Descrição: During each of your opponent's End Phases, place 1 card face-up on your side of the field from your hand or Deck in this order: "The Second Sarcophagus", "The Third Sarcophagus". If 1 Sarcophagus card is removed from your side of the field, all of them on your side of the field are sent to the Graveyard. When you have all 3 Sarcophagus cards on your side of the field, send all Sarcophagus cards on your side of the field to the Graveyard to Special Summon 1 "Spirit of the Pharaoh" from your hand or Deck.
+
+Coffin Seller Descrição: Each time a Monster Card(s) is sent to your opponent's Graveyard, inflict 300 damage to your opponent.
+
+Divergence Descrição: If a Machine-Type monster you control is targeted by an opponent's attack or card effect, you can switch the target to another appropriate Machine-Type monster you control.
+
+The Regulation of Tribe Descrição: Declare 1 Type of monster. Monsters of the declared Type cannot attack. Tribute 1 monster from your side of the field during each of your Standby Phases. If you do not, this card is destroyed.
+
+Des Counterblow Descrição: Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.
+
+Solemn Wishes Descrição: Increase your Life Points by 500 points each time you draw a card (or cards).
+
+Bad Reaction to Simochi Descrição: As long as this card remains face-up on the field, any effect of increasing your opponent's Life Points is changed to inflict the same amount of points in damage to your opponent's Life Points.
+
+Deck Destruction Virus Descrição: You can only activate this card when a DARK Fiend-Type monster with 500 or less ATK is destroyed as a result of battle. Send 10 random cards from your opponent's Deck to the Graveyard.
+
+Ancient Lamp (Trap Version) Descrição: Activate only when a face-up "La Jinn the Mystical Genie of the Lamp" is selected as an attack target. You can negate the attack and change the attack target to another face-up monster your opponent
+
+Mask of Restrict Descrição: Cards cannot be Tributed.
+
+Robbin' Goblin Descrição: Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.
+
+Hysteric Party Descrição: Discard 1 card from your hand. Special Summon as many "Harpie Lady" cards as possible from your Graveyard. When this card is removed from the field, destroy all the monsters that were Special Summoned by this card's effect.
+
+Amazoness Willpower Descrição: Select 1 "Amazoness" monster in your Graveyard and Special Summon it in Attack Position. It cannot change its battle position and must attack if able. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
+
+Gamble Descrição: You can only activate this card when your opponent's hand is 6 or more cards and your hand is 2 or less. Toss a coin and call heads or tails. If you call it right, draw until your hand has 5 cards. If you call it wrong, skip your next turn.
+
+Fairy Box Descrição: Each time a monster your opponent controls attacks, toss a coin and call Heads or Tails. If you call it right, the attacking monster's ATK becomes 0 during the Battle Phase only. During each of your Standby Phases, pay 500 Life Points or destroy this card.
+
+Nightmare Wheel Descrição: Target 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. During each of your Standby Phases while that monster is on the field: Inflict 500 damage to your opponent.
+
+Graceful Revival Descrição: Select 1 Level 2 or lower monster from your Graveyard and Special Summon it in Attack Position. When this card is removed from the field, destroy that monster. When that monster is removed from the field, destroy this card.
+
+Shadow Spell Descrição: Target 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card.
+
+Spirit Barrier Descrição: While you control a monster(s), you take no Battle Damage.
+
+Royal Decree Descrição: Negate all other Trap Card effects on the field.
+
+Respect Play Descrição: During their respective turns, each player must show their opponent their hand.
+
+Gravity Bind Descrição: Level 4 or highermonsters cannot attack.
+
+DNA Surgery Descrição: Activate by declaring 1 monster Type. All face-up monsters become that Type.
+
+Call of the Haunted Descrição: Target 1 monster in your Graveyard; Special Summon that target in face-up Attack Position. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.
+
+Spellbinding Circle Descrição: Target 1 monster your opponent controls; it cannot attack or change its battle position. When that monster is destroyed, destroy this card.
+
+Stronghold the Moving Fortress Descrição: Special Summon this card in Defense Position as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap Card.) While you control a face-up "Green Gadget", "Red Gadget", and "Yellow Gadget", this card's ATK becomes 3000.
+
+Metal Reflect Slime Descrição: Special Summon this card in Defense Position as an Effect Monster (Aqua-Type/WATER/Level 10/ATK 0/DEF 3000). (This card is also still a Trap Card.) This card cannot attack.
+
+Dragon Capture Jar Descrição: Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.
+
+Ultimate Offering Description: During your Main Phase or your opponent's Battle Phase: You can pay 500 Life Points; Normal Summon or Set 1 extra monster.
+
+The Eye of Truth Descrição: As long as this card remains face-up on the field, your opponent must show his/her hand. Your opponent increases his/her Life Points by 1000 points at each of his/her Standby Phases if he/she has a Spell Card in his/her hand.
+
+Mirror Wall Descrição: Halve the ATK of all your opponent's attacking monsters. During each of your Standby Phases, pay 2000 Life Points or destroy this card.
+
+Ordeal of a Traveler Descrição: When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.
+
+Copy and WIN : http://bit.ly/copy_win

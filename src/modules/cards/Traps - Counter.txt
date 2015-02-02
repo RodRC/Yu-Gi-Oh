@@ -1,0 +1,73 @@
+Fire Trap (HQ) Descrição: [Trap/Counter] Negate the activation of an opponent's card effect that would destroy a Spell or Trap Card(s) you control and destroy it. If this Set card is destroyed and sent to the Graveyard, draw 1 card.
+
+Crimson Fire (HQ Anime Artwork) Descrição: [Trap/Counter] Activate only when your opponent activates a Spell or Trap Card that inflicts damage while you control a face-up monster whose ATK is higher than the damage. You take no damage, and your opponent takes twice the damage you would have taken, instead.
+
+Wotan's Judgment (HQ) Descrição: [Trap/Counter] Activate only when a monster is selected as an attack target. Switch the top card of your Deck with a Spell Card in your hand, then shuffle your Deck to negate the attack and end the Battle Phase.
+
+Amorphous Barrier (HQ) Descrição: [Trap/Counter] Activate only when an opponent's monster declares an attack while you control 3 or more monsters. End the Battle Phase.
+
+Harpie's Feather Storm (HQ) Descrição: [Trap/Counter] Activate only during your Battle Phase, when your opponent activates an Effect Monster's effect while you control a face-up "Harpie" monster. Negate the effect, and destroy that monster. Then, end the Battle Phase.
+
+Jurassic Heart (HQ) Descrição: [Trap/Counter] Negate the activation and the effect of a Trap Card that targets 1 face-up Dinosaur-Type monster you control and destroy it.Activate by removing
+
+Paradox Fusion Descrição: [Trap/Counter] Activate by removing 1 face-up Fusion Monster you control from play. Negate the activation of a Spell or Trap Card, OR the Special Summon of a monster and destroy that card. During your 2nd End Phase, return the removed Fusion Monster to the field in face-up Attack Position.
+
+Barrel Behind the Door Descrição: [Trap/Counter] Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
+
+Bending Destiny Descrição: [Trap/Counter] Activate only if the only face-up monsters you control are "Fortune Lady" monsters. Negate an activation of a Spell Card / Trap Card / Normal Summon and return that card to the hand. That card cannot be used again this turn.
+
+Blackwing - Backlash Descrição: Activate only when your opponent declares a direct attack while you have 5 or more "Blackwing" monsters in your Graveyard. Destroy all monsters your opponent controls.
+
+Morphtronic Forcefield Descrição: Negate the activation of a Spell or Trap Card that would destroy a face-up "Morphtronic" monster you control and destroy it. Add 1 "Morphtronic" card from your Deck to your hand.
+
+Crimson Fire Descrição: Activate only when your opponent activates a Spell or Trap Card that inflicts damage while you control a face-up "Red Dragon Archfiend". You take no damage, and your opponent takes twice the effect damage you would have taken, instead.
+
+Wiretap Descrição: Negate the activation of an opponent's Trap Card. Return that card face-up to your opponent's Deck and the Deck is then shuffled. Until they draw that card, your opponent cannot activate the effect of another card with the same name.
+
+Discord Counter Descrição: Activate only when your opponent Synchro Summons a monster. Return that monster to the Extra Deck. Then Special Summon all of the monsters that were used for the Synchro Summon from your opponent's Graveyard to their side of the field. Your opponent cannot Summon a monster until the End Phase of their next turn.
+
+Karakuri Cash Shed Descrição: Activate only if you control a "Karakuri" monster in face-up Defense Position. Negate the activation of an opponent's Spell/Trap Card and destroy it.
+
+Forced Back Descrição: Negate the Normal Summon or Flip Summon of a monster and return the monster to its owner's hand.
+
+Riryoku Field Descrição: Negate the activation of a Spell Card that targets 1 monster on the field and destroy the Spell Card.
+
+Dark Bribe Descrição: When an opponent's Spell/Trap Card is activated: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.
+
+Tutan Mask Descrição: Negate the activation and the effect of a Spell or Trap Card that targets 1 face-up Zombie-Type monster and destroy it.
+
+Snake Deity's Command Descrição: Activate only by revealing 1 "Venom" monster in your hand. Discard that monster to the Graveyard to negate the activation and effect of an opponent's Spell Card and destroy it.
+
+Hero's Rule 2 Descrição: Negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) in the Graveyard, and destroy it.
+
+Counter Counter Descrição: Negate the activation of a Counter Trap Card, and destroy it.
+
+Passion of Baimasse Descrição: Negate the activation of an Effect Monster's effect and destroy it.
+
+Earthbound Wave Descrição: Activate only while you control a face-up "Earthbound Immortal" monster. Negate the activation of a Spell or Trap Card your opponent controls, and destroy it.
+
+Infernity Barrier Descrição: When your opponent activates a Spell/Trap Card, or monster effect, while you control a face-up Attack Position "Infernity" monster and have no cards in your hand: Negate the activation, and if you do, destroy that card.
+
+Trap Strap Descrição: Activate only when your opponent activates a Trap Card. When it resolves, Set that card face-down instead of sending it to the Graveyard. Then, you can Special Summon 1 "Crystal Beast" monster from your hand or Deck.
+
+Magic Drain Descrição: When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it.
+
+Judgment of Anubis Descrição: Discard 1 card from your hand. Negate the activation and the effect of a Spell Card controlled by your opponent that has the effect of destroying Spell and/or Trap Card(s) on the field and destroy it. After that, you can destroy 1 face-up monster on your opponent's side of the field and inflict damage to your opponent equal to the ATK of the destroyed monster.
+
+Trap Jammer Descrição: Activate only when your opponent activates a Trap Card during the Battle Phase. Negate the activation of the Trap Card and destroy it.
+
+Cursed Seal of the Forbidden Spell Descrição: Discard 1 Spell Card. Negate the activation and the effect of a Spell Card and destroy it. Your opponent cannot activate Spell Cards with that name during the rest of this Duel.
+
+Seven Tools of the Bandit Descrição: When a Trap Card is activated: Pay 1000 Life Points; negate the activation, and if you do, destroy it.
+
+Horn of Heaven Descrição: When a monster would be Summoned: Tribute 1 monster; negate the Summon, and if you do, destroy that monster.
+
+Solemn Warning Descrição: When a monster would be Summoned, OR when a Spell Card, Trap Card, or monster effect is activated that includes an effect that Special Summons a monster(s): Pay 2000 Life Points; negate the Summon or activation, and if you do, destroy that card.
+
+Magic Jammer Descrição: Discard 1 card from your hand. Negate the activation of a Spell Card and destroy it.
+
+Solemn Judgment Descrição: When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.
+
+Feather Wind Descrição: When a Spell/Trap Card is activated while you control a face-up "Elemental HERO Avian": Negate the activation and destroy it.
+
+Negate Attack Descrição: Activate only when a target opponent's monster declares an attack. Negate the attack and end the Battle Phase.
